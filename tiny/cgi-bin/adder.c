@@ -5,6 +5,8 @@
 #include "csapp.h"
 
 int main(void) {
+  char *buf, *p;
+  
   exit(0);
 }
 /* $end adder */
