@@ -1,6 +1,7 @@
 {
     "files.associations": {
         "csapp.h": "c",
-        "stat.h": "c"
+        "stat.h": "c",
+        "__threading_support": "c"
     }
 }
